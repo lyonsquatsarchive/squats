@@ -23,9 +23,9 @@ Philosophie de vie
 
 ### Le Chateau dans le Ciel a déménagé à plusieurs reprises.
 
-![](/http://lyon-alternatif.fr/wp-content/uploads/2013/01/IMG_8398_399_400_fused-800x533.jpg)
+![](http://lyon-alternatif.fr/wp-content/uploads/2013/01/IMG_8398_399_400_fused-800x533.jpg)
 
-![](/http://lyon-alternatif.fr/wp-content/uploads/2013/01/chateau-perrache-2-500x500.jpg)
+![](http://lyon-alternatif.fr/wp-content/uploads/2013/01/chateau-perrache-2-500x500.jpg)
 
 ### Des ateliers
 [liste sur l'ancien site](http://lyon-alternatif.fr/ateliers/)
